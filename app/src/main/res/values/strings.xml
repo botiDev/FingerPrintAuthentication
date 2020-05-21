@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fingerprint Authentication</string>
+    <string name="instructions">Place your fingertip on Icon above to verify your identity</string>
+</resources>
